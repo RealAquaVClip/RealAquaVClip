@@ -8,3 +8,6 @@ I use this github page to show you guys my latest open source code and scripts f
 - **ROBLOX portfolio**
  - I have worked with many Studios/ROBLOX experiences such as **High Effortless Games, BedwarZ, Hyplex, and many others**
  - I am a **Community Director** For Hire, contact me via Discord (@thexyrae) to hire me
+
+## Frequently Used Programming Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realaquavclip&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
