@@ -4,3 +4,7 @@
 
 Welcome to my github page, I am xyrae/AquaVClip, I specialize in **ROBLOX** Development and make YouTube videos about It. 
 I use this github page to show you guys my latest open source code and scripts for you to use. 
+
+- **ROBLOX portfolio**
+ - I have worked with many Studios/ROBLOX experiences such as **High Effortless Games, BedwarZ, Hyplex, and many others**
+ - I am a **Community Director** For Hire, contact me via Discord (@thexyrae) to hire me
