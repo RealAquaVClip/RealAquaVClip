@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm [Xyrae/Aqua]
 
-<!--
-**RealAquaVClip/RealAquaVClip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Programmer • UI/UX • Full-stack
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+
+I'm a senior programmer with a strong focus on UI/UX and full-stack development. I enjoy building polished, high-performance applications — from sleek front-end interfaces to robust back-end systems. Whether it's a game on Roblox or a web app, I care deeply about clean code, great user experiences, and performance that users can actually feel.
+
+---
+
+## 🚀 Projects
+
+### ⚛️ RAECT
+A React port for Roblox built from scratch with performance in mind. Significantly more optimized than Roact — faster rendering, smarter diffing, and a lighter core, all wrapped in a familiar React-like API with hooks and component-based architecture.
+
+### ⚔️ Anime Raid Champions
+A multiplayer dungeon-crawler on Roblox featuring procedural dungeons, dynamic combat, and co-op raids. Focused on fluid gameplay and replayability with a stylized anime aesthetic.
+
+---
+
+## 🛠️ Languages
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40" alt="Lua"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40" alt="Rust"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+
+</div>
