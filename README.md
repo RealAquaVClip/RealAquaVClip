@@ -3,7 +3,12 @@ Hey, I'm **Xyrae**, a Senior Programmer, Full-Stack indie developer, UI/UX devel
 
 I'm a senior programmer for **ARC** which is a dungeon game, where you complete raids, to obtain fragments to forge items! And also the writer behind **Project AX-02**, an indie novel about a robot that got thrown out by its own creator. I enjoy writing, development, and creating stuff on the internet :)
 
-I'm also a community manager that is currently open for hire, and I'm also the person behind `node-ide`. A fast, lightweight, extensible code editor for mobile and desktop, build off the visual foundation of **Visual Studio Code**. I also sometimes make videos regarding development logs, my experience with `Project AX-02` and about anything else honestly :p
+I'm also a community manager that is currently open for hire, and I'm also the person behind `node-ide`. A fast, lightweight, extensible code editor for mobile and desktop, build off the visual foundation of **Visual Studio Code**. I also sometimes make videos regarding development logs, my experience with `Project AX-02` and about anything else honestly :p Also currently working on Aegis Anti-Cheat, an open source, free Minecraft Anti-Cheat, more information @ https://github.com/AegisAC
+
+## Former Projects:
+- RAECT
+- ARC
+  
 
 ## Languages
 
